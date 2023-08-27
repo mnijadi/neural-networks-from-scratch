@@ -1,13 +1,20 @@
-# Logistic Regression Using Neural Networks
+# Neural Networks From Scratch
 
 ## Description
 
-Given a train set and a test set of cats and non-cats images, we will try to build a logistic regression model to classify these images.  
-The challenge here is to implement the model from scratch using a neural networks approach.
+In this project, we will try to implement the major building blocks of neural networks from scratch.  
+We will do this through multiple steps:
+
+1. Build a logistic regression classifier as a neural network
+2. Build a neural network with a single hidden layer
+3. Build a deep neural network with multiple hidden layers
+4. Implement different optimization algorithms
+5. Build a convolutional neural network
+6. Build a recurrent neural network
 
 ## Libraries
 
-We will be using mainly Python and NumPy to implement the model, in addition to some other helper libraries for an easy manipulation of images. Run the following command for installing the required libraries:  
+We will be using mainly Python and NumPy to implement the model, in addition to some other helper libraries for an easy manipulation of files and datasets. Run the following command for installing the required libraries:  
 `pip install -r requirements.txt`
 
 ## Acknowledgments
