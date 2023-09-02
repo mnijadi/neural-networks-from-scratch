@@ -8,9 +8,8 @@ We will do this through multiple steps:
 1. Build a logistic regression classifier as a neural network
 2. Build a neural network with a single hidden layer
 3. Build a deep neural network with multiple hidden layers
-4. Implement different optimization algorithms
-5. Build a convolutional neural network
-6. Build a recurrent neural network
+4. Build a convolutional neural network
+5. Build a recurrent neural network
 
 ## Libraries
 
