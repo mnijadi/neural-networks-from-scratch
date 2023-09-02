@@ -1,4 +1,4 @@
-# Neural Networks From Scratch
+# Neural Networks From Scratch (Work In Progress)
 
 ## Description
 
